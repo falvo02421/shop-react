@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "_id": "females1",
+      "title": "T-Shirt Long Cream",
+      "image": "/images/female1.jpg",
+      "description": "Dress long",
+      "price": 20,
+      "availableSizes": ["XL", "XXL"],
+      "color": ["White", "Black", "Cream"],
+      "gender": "Female"
+    },
+    {
+      "_id": "males1",
+      "title": "Jacket White Rumble Black",
+      "image": "/images/jacket_male1.jpg",
+      "description": "Dress long",
+      "price": 37,
+      "availableSizes": ["XL", "M", "L"],
+      "color": ["White", "Black", "Navy"],
+      "gender": "Male"
+    },
+    {
+      "_id": "females2",
+      "title": "White Plain Blouse",
+      "image": "/images/female2.jpg",
+      "description": "Dress long",
+      "price": 25,
+      "availableSizes": ["XL", "XXL", "L", "S", "M"],
+      "color": ["White", "Red"],
+      "gender": "Female"
+    },
+    {
+      "_id": "females3",
+      "title": "Dress Pink Code",
+      "image": "/images/female3.jpg",
+      "description": "Dress long",
+      "price": 15,
+      "availableSizes": ["XL", "XXL", "L", "M"],
+      "color": ["Black", "Pink"],
+      "gender": "Female"
+    },
+    {
+      "_id": "females4",
+      "title": "T-Shirt Long Blouse White",
+      "image": "/images/female4.jpg",
+      "description": "Dress long",
+      "price": 20,
+      "availableSizes": ["XL", "XXL"],
+      "color": ["White", "Black", "Yellow"],
+      "gender": "Female"
+    },
+    {
+      "_id": "females5",
+      "title": "Nightgown T-Shirts",
+      "image": "/images/female5.jpg",
+      "description": "Dress long",
+      "price": 37,
+      "availableSizes": ["XL", "M", "L"],
+      "color": ["White", "Blue", "Red"],
+      "gender": "Male"
+    },
+    {
+      "_id": "females6",
+      "title": "Mini Transparent White Dress",
+      "image": "/images/female6.jpg",
+      "description": "Dress long",
+      "price": 25,
+      "availableSizes": ["XL", "XXL", "L", "S", "M"],
+      "color": ["White", "Black", "red"],
+      "gender": "Female"
+    },
+    {
+      "_id": "females7",
+      "title": "Striped Office Lady Shirt",
+      "image": "/images/female7.jpg",
+      "description": "Dress long",
+      "price": 15,
+      "availableSizes": ["XL", "XXL", "L", "M"],
+      "color": ["White", "Black"],
+      "gender": "Female"
+    }
+  ]
+}
